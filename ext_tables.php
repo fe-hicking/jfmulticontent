@@ -11,6 +11,6 @@ if (
         JFMULTICONTENT_EXT,
         'Configuration/TypoScript/PluginSetup/',
         'Multi content'
-    d);
+    );
 }
 
